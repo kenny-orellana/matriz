@@ -8,7 +8,7 @@
 
 **-Multiplicación de dos matrices**
 
-**-Transpuesta de una matrix**
+**-Transpuesta de una matriz**
 
 ## Cómo funciona el programa
 Éste programa es bastante básico, Tiene un menú en el que seleccionas la operación que quieres realizar,
